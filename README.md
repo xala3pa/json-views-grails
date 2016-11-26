@@ -1,2 +1,1 @@
-# json-views-grails
-JSON views Grails 3 -  Lightning Talk
+#JSON views Grails 3 -  Lightning Talk
